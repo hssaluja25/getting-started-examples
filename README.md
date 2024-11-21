@@ -1,2 +1,2 @@
 # getting-started-examples
-Examples to get start
+Examples to get sta
